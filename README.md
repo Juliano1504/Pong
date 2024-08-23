@@ -1,1 +1,1 @@
-A very simple version of the classic Atari game: Pong made in JavaScript, HTML and CSS.
+# A very simple version of the classic Atari game: Pong made in JavaScript, HTML and CSS.
